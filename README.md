@@ -3,7 +3,6 @@ Connect 4 Game Simulator with Monte Carlo Tree Search AI
 
 Connect4-MCTS is an advanced Connect 4 simulator that integrates the Monte Carlo Tree Search (MCTS) algorithm for strategic gameplay. While the game maintains the simplicity of the classic Connect 4, the AI player, powered by MCTS, introduces a challenging and insightful dimension to the game. This project serves as a practical demonstration of MCTS's capabilities in game strategy and decision-making.
 
-![Connect4-MCTS Example](connect4.png)
 <img width="400" alt="Connect 4" src="connect4.png" />
 
 ## Dependencies
